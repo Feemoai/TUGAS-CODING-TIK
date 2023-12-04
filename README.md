@@ -7,7 +7,6 @@ NAMA  : AHMAD FAJRIL FALAH
 ABSEN : 03
 <br />
 KELAS : XI-F11
-<br />
 
 TUGAS 
 1. NGODING CODE (Tambahan, Kali, Bagi, Print, dll)
