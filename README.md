@@ -1,9 +1,13 @@
 # TUGAS MAPEL INFORMATIKA
 TUGAS MAPEL INFORMATIKA "SMA NEGERI 1 PATI"
 
+<br />
 NAMA  : AHMAD FAJRIL FALAH
+<br />
 ABSEN : 03
+<br />
 KELAS : XI-F11
+<br />
 
 TUGAS 
 1. NGODING CODE (Tambahan, Kali, Bagi, Print, dll)
